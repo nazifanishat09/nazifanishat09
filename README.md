@@ -2,9 +2,7 @@
   <h1>Hi,👋 I'm Mst. Nazifa Akter Nishat </h1>
   <p><strong>Mobile App Developer – Learning & Growing</strong></p>
  <img 
-        src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" 
-        alt="GitHub Snake Animation" 
-        width="600">
+         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 </div>
 
 -
